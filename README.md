@@ -21,9 +21,6 @@ The player matches similar candies to score points and clear the board.
 2. Open `index.html` in your browser
 3. Match 3 or more candies of the same type
 
-## Screenshots
-(Add game screenshots here)
-
 ## Author
 Chaitanya Krishnakumar Jain
 
